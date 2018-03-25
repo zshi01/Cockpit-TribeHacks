@@ -1,0 +1,12 @@
+{
+  "name": "ar-drone-keyboard",
+  "version": "0.0.1",
+  "dependencies": {
+    "ar-drone": ">=0",
+    "coffee-script": "^1.12.7",
+    "coffeescript": "^2.2.3",
+    "ejs": ">=0",
+    "express": ">=0",
+    "socket.io": ">=0"
+  }
+}
